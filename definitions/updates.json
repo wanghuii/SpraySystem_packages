@@ -1,1 +1,40 @@
+{
+  "updates": {
+    "windows": {
+      "open-url": "",
+      "latest-version": "2.0",
+      "download-url": "https://gitee.com/zuoyoupaihuai/SpraySystem_packages/blob/master/download/SpraySystem.exe",
+      "changelog": "gitee.com/zuoyoupaihuai/SpraySystem_packages/download/SpraySystem",
+      "mandatory": false
+    },
+    "osx": {
+      "open-url": "",
+      "latest-version": "1.0",
+      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+      "changelog": "This is an example changelog for Mac OS X. Go on...",
+      "mandatory": true
+    },
+    "linux": {
+      "open-url": "",
+      "latest-version": "1.0",
+      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+      "changelog": "This is an example changelog for Linux. Go on...",
+      "mandatory": true
+    },
+    "ios": {
+      "open-url": "",
+      "latest-version": "1.0",
+      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+      "changelog": "This is an example changelog for iOS. Go on...",
+      "mandatory": true
+    },
+    "android": {
+      "open-url": "",
+      "latest-version": "1.0",
+      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+      "changelog": "This is an example changelog for Android. Go on...",
+      "mandatory": true
+    }
+  }
+}
 
